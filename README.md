@@ -12,7 +12,7 @@ This package exposes two simple factories capable to create a instances of the `
 		"net/http"
 		"github.com/luraproject/lura/config"
 		"github.com/luraproject/lura/proxy"
-		"github.com/devopsfaith/krakend-httpcache"
+		"github.com/albatarnik/krakend-httpcache"
 	)
 
 	requestExecutorFactory := func(cfg *config.Backend) proxy.HTTPRequestExecutor {
