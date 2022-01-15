@@ -21,7 +21,7 @@
 [[projects]]
   branch = "master"
   digest = "1:c3cbd7046b40723107a9a31232846de2e5de8c2e6ff6890b453d5920d6fff193"
-  name = "github.com/gregjones/httpcache"
+  name = "github.com/albatarnik/httpcache"
   packages = ["."]
   pruneopts = "UT"
   revision = "9cad4c3443a7200dd6400aef47183728de563a38"
@@ -50,7 +50,7 @@
     "github.com/devopsfaith/krakend/encoding",
     "github.com/devopsfaith/krakend/proxy",
     "github.com/devopsfaith/krakend/transport/http/client",
-    "github.com/gregjones/httpcache",
+    "github.com/albatarnik/httpcache",
     "golang.org/x/sync/errgroup",
   ]
   solver-name = "gps-cdcl"
