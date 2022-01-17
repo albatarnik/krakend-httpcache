@@ -1,6 +1,6 @@
 github.com/albatarnik/httpcache v0.0.0-20190611155906-901d90724c79/go.mod h1:IPKQTxrCH+5gphXbsB2uC3tgCG7MZM+f5M2UlUdPxmA=
-github.com/albatarnik/httpcache v1.0.2 h1:p3hwWGaur4xqo5A3ShHMFHvXErlzB93bgDPf5E1mPu8=
-github.com/albatarnik/httpcache v1.0.2/go.mod h1:23C7X3FH6tCu8WbM+VtZO2Qfe8Q/5bu7PUglle+K6XM=
+github.com/albatarnik/httpcache v1.0.3 h1:zhmsNSBUpRvRg0q9DECl0+XBXDfZhpx7rXSiLus6Rt8=
+github.com/albatarnik/httpcache v1.0.3/go.mod h1:23C7X3FH6tCu8WbM+VtZO2Qfe8Q/5bu7PUglle+K6XM=
 github.com/bradfitz/gomemcache v0.0.0-20220106215444-fb4bf637b56d/go.mod h1:H0wQNHz2YrLsuXOZozoeDmnHXkNCRmMW0gwFWDfEZDA=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/devopsfaith/flatmap v0.0.0-20200601181759-8521186182fc h1:WM1VdC8LW8GIZUJuvXgQWm6LcZ8niL0D0WVuC3lKkQU=
